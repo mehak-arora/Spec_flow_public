@@ -1,0 +1,4 @@
+	
+	https://www.youtube.com/watch?v=yRJZG0lJ2yE
+	https://blog.executeautomation.com/handling-multiple-assert-in-selenium-with-assert-multiple-of-nunit-3-6/
+	https://www.toolsqa.com/selenium-webdriver/mouse-hover-action/
