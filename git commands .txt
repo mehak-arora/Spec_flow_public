@@ -63,3 +63,13 @@ To https://github.com/mehak-arora/Spec_flow_public
    e3bcf0d..fbef0ba  master -> master
 
 mehaka@aklmehaka01 MINGW64 ~/spec_flow_public (master)
+
+
+git add  UsefulLinks.txt  /// if the file is in this format 
+
+
+git add "new file.txt" // use inverted comms  if the file is with the space 
+
+
+
+
